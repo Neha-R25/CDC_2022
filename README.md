@@ -1,7 +1,7 @@
 # CDC Smoking Gender Analysis (BRFSS 2022)
 
 ## Research Question
-Are males more likely to smoke than females?
+Is gender associated with current smoking status among adults in United States?
 
 ## Dataset
 Behavioral Risk Factor Surveillance System (BRFSS) 2022 dataset from the CDC.
